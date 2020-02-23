@@ -1,1 +1,3 @@
-x = -b/a
+a = 0 & b != 0 => vo nghiem
+a = 0 & b = 0 => vo so nghiem
+a != 0 => x = -b/a

@@ -1,1 +1,1 @@
-delta = b^2 - 4ac
+delta = b^2 - 4*a*c
